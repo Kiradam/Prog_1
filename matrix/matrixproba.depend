@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1575903731 source:c:\users\kiradam\desktop\gyakorlas\c\matrixproba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
+1576016417 
+
+1575903399 c:\users\kiradam\desktop\gyakorlas\c\matrixproba\matrix.h
+
+1575903357 source:c:\users\kiradam\desktop\gyakorlas\c\matrixproba\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"matrix.h"
+
+1575903836 source:c:\users\kiradam\desktop\hazi\c\nagyhazi\matrixproba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
+1575903399 c:\users\kiradam\desktop\hazi\c\nagyhazi\matrixproba\matrix.h
+
+1575903836 source:c:\users\kiradam\desktop\hazi\c\nagyhazi\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
+1575903399 c:\users\kiradam\desktop\hazi\c\nagyhazi\matrix\matrix.h
+
+1576016417 source:c:\users\kiradam\desktop\hazi\c\nagyhazi\matrix\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"matrix.h"
+
+1589441018 source:/home/kiradam/uni/Prog1/Nagyhazi_1/Nagyhazi/matrix/main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
+1589441017 /home/kiradam/uni/Prog1/Nagyhazi_1/Nagyhazi/matrix/matrix.h
+
+1589441018 source:/home/kiradam/uni/Prog1/Nagyhazi_1/Nagyhazi/matrix/matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"matrix.h"
+
